@@ -1,0 +1,32 @@
+{
+  "id": "extinction-curse-pf2e-maps-by-lios",
+  "title": "Extinction Curse PF2E Maps by Lios",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Test",
+  "authors": [
+    {
+      "name": "Lios",
+      "discord": "lios",
+      "url": "https://www.patreon.com/liospc",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "extinction-curse-pf2e-maps",
+      "label": "Extinction Curse PF2E Maps",
+      "path": "packs/extinction-curse-pf2e-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
