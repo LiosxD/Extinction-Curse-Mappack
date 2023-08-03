@@ -1,12 +1,12 @@
 {
   "id": "extinction-curse-pf2e-maps-by-lios",
+  "description": "Test",
   "title": "Extinction Curse PF2E Maps by Lios",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
   },
-  "description": "Test",
   "authors": [
     {
       "name": "Lios",
@@ -28,7 +28,8 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+    "socket": false,
   "manifest": "https://raw.githubusercontent.com/LiosxD/Extinction-Curse-Mappack/master/module.json",
   "download": "https://github.com/LiosxD/Extinction-Curse-Mappack/archive/refs/tags/v1.zip",
   "readme": "https://raw.githubusercontent.com/LiosxD/Extinction-Curse-Mappack/master/README.md"
