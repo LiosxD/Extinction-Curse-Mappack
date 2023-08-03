@@ -29,4 +29,7 @@
       "flags": {}
     }
   ]
+  "manifest": "https://raw.githubusercontent.com/LiosxD/Extinction-Curse-Mappack/master/module.json",
+  "download": "https://github.com/LiosxD/Extinction-Curse-Mappack/archive/refs/tags/v1.zip",
+  "readme": "https://raw.githubusercontent.com/LiosxD/Extinction-Curse-Mappack/master/README.md"
 }
